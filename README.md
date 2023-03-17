@@ -44,6 +44,10 @@ On peut alors mettre en place des circuits électriques équivalent aux phénom�
 <img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/225969063-85a2d0c6-08ea-431a-af0e-2695b1c9a1fb.png">
 </p>
 
+On remarque que les choix réalisés en terme d'isolation ne garantissent pas un confort idéal du bâtiment. En effet on peut observer sur les graphiques que l'on a des températures qui dépassent les 30 degrés Celsius à l'intérieur des pièces 1 et 2 pour plus de 5 jours consécutifs. Afin, de lutter contre cet inconfort on décide de réaliser la même simulation mais en changeant l'isolant afin d'observer son impact sur les résultats. On fait le choix de mettre en place de la laine de verre de caractéristiques suivantes : 
+- conductivité : 0,035 W/(m.K)
+- densité : 20 kg/m³
+
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
