@@ -30,12 +30,20 @@ avec :
 - α_gSW = 0.38    l'absorbance des petites longeurs d'ondes pour le verre
 - τ_gSW = 0.30    la transmittance des petites longeurs d'ondes pour le verre
 
-### Principales hypothèses
+### Principales hypothèses et résultats
 Bien que l'on ne reprendra pas toutes les hypothèses des différents modèles dans cette partie puisque cela a été fait dans les notebooks Jupyter, on rapelle que les principaux résultats ont pu être obtenu en considérant que :
 - le bâtiment se situe à Lyon
 - l'on étudie notre site en se basant sur l'année de référence 2000 sur la période juillet-aout 
-- le critère de convergence et de stabilité du schéma d'Euler est respecté avec le choix d'un pas de temps adapté
 - le transfert de chaleur se fait par conduction, rayonnement, advection et convection
+- l'on a chaque instant un équilibre thermodynamique permettant la conservation de l'énergie thermique
+- le critère de convergence et de stabilité du schéma d'Euler est respecté avec le choix d'un pas de temps adapté
+
+On peut alors mettre en place des circuits électriques équivalent aux phénomènes thermiques. On obtient après implementation du modèle le résultat suivant pour ce qui est du modèle dynamique :
+
+<p align="center">
+<img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/225969063-85a2d0c6-08ea-431a-af0e-2695b1c9a1fb.png">
+</p>
+
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
