@@ -23,8 +23,19 @@ On résume alors les caractéristiques des matériaux utilisés dans le tableau 
 <img width="500" alt="Screenshot 2023-03-17 at 17 27 42" src="https://user-images.githubusercontent.com/128041310/225963202-7ae68203-a2ec-45cf-89cd-b73a6bed5e1e.png">
 </p>
 
+avec :
+- ε_wLW = 0.85    l'emissivité des grandes longeurs d'ondes pour les murs 
+- ε_gLW = 0.90    l'emissivité des grandes longeurs d'ondes pour le verre 
+- α_wSW = 0.25    l'absorbance des petites longeurs d'ondes pour les surfaces blanches et lisses
+- α_gSW = 0.38    l'absorbance des petites longeurs d'ondes pour le verre
+- τ_gSW = 0.30    la transmittance des petites longeurs d'ondes pour le verre
+
 ### Principales hypothèses
 Bien que l'on ne reprendra pas toutes les hypothèses des différents modèles dans cette partie puisque cela a été fait dans les notebooks Jupyter, on rapelle que les principaux résultats ont pu être obtenu en considérant que :
+- le bâtiment se situe à Lyon
+- l'on étudie notre site en se basant sur l'année de référence 2000 sur la période juillet-aout 
+- le critère de convergence et de stabilité du schéma d'Euler est respecté avec le choix d'un pas de temps adapté
+- le transfert de chaleur se fait par conduction, rayonnement, advection et convection
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
