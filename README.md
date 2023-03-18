@@ -44,6 +44,11 @@ On peut alors mettre en place des circuits électriques équivalent aux phénom�
 <img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/225969063-85a2d0c6-08ea-431a-af0e-2695b1c9a1fb.png">
 </p>
 
+avec : 
+- T_indoor 1 : la temperature interieure de la salle 1
+- T_indoor 2 : la temperature interieure de la salle 2
+- q_HVAC : le flux de temperature necessaire pour maintenir la temperature de consigne
+
 On remarque que les choix réalisés en terme d'isolation ne garantissent pas un confort idéal du bâtiment. En effet on peut observer sur les graphiques que l'on a des températures qui dépassent les 30 degrés Celsius à l'intérieur des pièces 1 et 2 pour plus de 5 jours consécutifs. Afin, de lutter contre cet inconfort on décide de réaliser la même simulation mais en changeant l'isolant afin d'observer son impact sur les résultats. 
 
 ### Comparaison des résultats suivant les isolants
