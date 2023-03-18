@@ -44,12 +44,11 @@ On peut alors mettre en place des circuits électriques équivalent aux phénom�
 <img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/225969063-85a2d0c6-08ea-431a-af0e-2695b1c9a1fb.png">
 </p>
 
-On remarque que les choix réalisés en terme d'isolation ne garantissent pas un confort idéal du bâtiment. En effet on peut observer sur les graphiques que l'on a des températures qui dépassent les 30 degrés Celsius à l'intérieur des pièces 1 et 2 pour plus de 5 jours consécutifs. Afin, de lutter contre cet inconfort on décide de réaliser la même simulation mais en changeant l'isolant afin d'observer son impact sur les résultats. On fait le choix de mettre en place de la laine de verre de caractéristiques suivantes : 
-- conductivité : 0,035 W/(m.K)
-- densité : 20 kg/m³
+On remarque que les choix réalisés en terme d'isolation ne garantissent pas un confort idéal du bâtiment. En effet on peut observer sur les graphiques que l'on a des températures qui dépassent les 30 degrés Celsius à l'intérieur des pièces 1 et 2 pour plus de 5 jours consécutifs. Afin, de lutter contre cet inconfort on décide de réaliser la même simulation mais en changeant l'isolant afin d'observer son impact sur les résultats. 
+
 ### Comparaison des résultats suivant les isolants
 Une première série de test a été menée sur un mois de janvier pour comparer différents isolants (laine de verre et paille). Voici les différents résultats :
-- Isolant en laine de verre :
+- Isolant en laine de verre (conductivité de 0,035 W/(m.K) et densité de 20 kg/m^3):
 Pour la première salle, nous trouvons une consommation de chauffage de 1035 kWh et de 283 kWh pour la seconde salle. La température est maintenue au niveau de la consigne tout au long du mois (20°C dans ce cas-là). On remarque que la consommation de chauffage dépend des conditions extérieures : s'il y a plus de soleil, moins de chauffage est consommé, de même si la température extérieure est plus élevée.
 
 
