@@ -42,13 +42,19 @@ On peut alors mettre en place des circuits électriques équivalent aux phénom�
 - pour le modèle statique :
 
 <p align="center">
-<img width="500" alt="Untitled" src="https://user-images.githubusercontent.com/128041310/226108514-a54e9682-0b49-49d9-ac6e-92215b831990.png">
+  <img width="500" alt="Untitled" src="https://user-images.githubusercontent.com/128041310/226108514-a54e9682-0b49-49d9-ac6e-92215b831990.png">
+</p>
+<p align="center">
+  <em>Figure décrite dans le notebook Jupyter "Modèle_Statique"</em>
 </p>
 
 - pour le modèle dynamique :
 
 <p align="center">
-<img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/226108558-7853629d-3b82-46da-9194-9d5f9ad14679.jpeg">
+<img width="800" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/226108558-7853629d-3b82-46da-9194-9d5f9ad14679.jpeg">
+</p>
+<p align="center">
+  <em>Figure décrite dans le notebook Jupyter "Modèle_Dynamique"</em>
 </p>
 
 On obtient après implementation du modèle le résultat suivant pour ce qui est du modèle dynamique :
