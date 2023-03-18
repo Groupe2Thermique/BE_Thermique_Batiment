@@ -45,18 +45,10 @@ On peut alors mettre en place des circuits électriques équivalent aux phénom�
 <img width="500" alt="Untitled" src="https://user-images.githubusercontent.com/128041310/226108514-a54e9682-0b49-49d9-ac6e-92215b831990.png">
 </p>
 
-<p align="center">
-<em>Figure décrite dans le notebook Jupyter intitulé "Modèle_Statique"</em>
-</p>
-
 - pour le modèle dynamique :
 
 <p align="center">
 <img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/226108558-7853629d-3b82-46da-9194-9d5f9ad14679.jpeg">
-</p>
-
-<p align="center">
-<em>Figure décrite dans le notebook Jupyter intitulé "Modèle_Dynamique"</em>
 </p>
 
 On obtient après implementation du modèle le résultat suivant pour ce qui est du modèle dynamique :
@@ -116,12 +108,18 @@ Les deux isolants présentent quand même des résultats très similaires dans c
 A présent, nous regardons quel est l'impact de la ventilation sur la température des deux pièces. Pour cela, nous faisons varier le paramètre ACH, c'est à dire le taux de renouvellement d'air (ACH=1 correspond au renouvellement d'une fois le volume de la pièce par heure). Voici les résultats obtenus :
 
 
-| ACH | Température moyenne pièce 1 | Température moyenne pièce 2 |
-|-----|-----------------------------|-----------------------------|
-|  1  |            24.06            |            23.57            |
-|  2  |            23.81            |            23.25            |
-|  5  |            23.35            |            22.70            |
-|  10 |            22.95            |            22.30            |
+| ACH | Température moyenne pièce 1 (°C) | Température moyenne pièce 2 (°C) |
+|-----|----------------------------------|----------------------------------|
+|  1  |               24.06              |               23.57              |
+|  2  |               23.81              |               23.25              |
+|  5  |               23.35              |               22.70              |
+|  10 |               22.95              |               22.30              |
+
+![ventilation_room_1](https://user-images.githubusercontent.com/78414656/226109644-a6caa2a4-fe3f-4d4a-af8a-bbc5d03f089b.png)
+![ventilation_room_2](https://user-images.githubusercontent.com/78414656/226109650-34e58277-1884-4518-97ca-7bb4d9c68b80.png)
+
+
+Nous pouvons voir que plus le taux de renouvellement est élevé, plus la température des pièces diminuent. En effet, la température des pièces va tendre vers la température extérieure si le taux de renouvellement est plus élevé. Plus le taux de renouvellement, moins les parois ont un effet sur la température intérieure. Par exemple, si toutes les fenêtres d'une maison sont ouvertes, la température intérieure sera égale à la température extérieure.
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
