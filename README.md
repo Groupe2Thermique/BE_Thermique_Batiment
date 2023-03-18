@@ -55,8 +55,6 @@ On remarque que les choix réalisés en terme d'isolation ne garantissent pas un
 Une première série de test a été menée sur un mois de janvier pour comparer différents isolants (laine de verre et paille). Voici les différents résultats :
 - Isolant en laine de verre (conductivité de 0,035 W/(m.K) et densité de 20 kg/m^3):
 Pour la première salle, nous trouvons une consommation de chauffage de 1035 kWh et de 283 kWh pour la seconde salle. La température est maintenue au niveau de la consigne tout au long du mois (20°C dans ce cas-là). On remarque que la consommation de chauffage dépend des conditions extérieures : s'il y a plus de soleil, moins de chauffage est consommé, de même si la température extérieure est plus élevée.
-
-
 ![janvier_laine_de_verre_sans_ext](https://user-images.githubusercontent.com/78414656/226101540-b33fd2f2-e42e-49c6-9421-e6c7c35bb3d7.png)
 ![janvier_laine_de_verre](https://user-images.githubusercontent.com/78414656/226101532-a87959ce-e5ec-43a0-98f4-dc33513520fd.png)
 
