@@ -38,7 +38,20 @@ Bien que l'on ne reprendra pas toutes les hypothèses des différents modèles d
 - l'on a chaque instant un équilibre thermodynamique permettant la conservation de l'énergie thermique
 - le critère de convergence et de stabilité du schéma d'Euler est respecté avec le choix d'un pas de temps adapté
 
-On peut alors mettre en place des circuits électriques équivalent aux phénomènes thermiques. On obtient après implementation du modèle le résultat suivant pour ce qui est du modèle dynamique :
+On peut alors mettre en place des circuits électriques équivalent aux phénomènes thermiques. Ainsi :
+- pour le modèle statique :
+
+<p align="center">
+<img width="500" alt="Untitled" src="https://user-images.githubusercontent.com/128041310/226108514-a54e9682-0b49-49d9-ac6e-92215b831990.png">
+</p>
+
+- pour le modèle dynamique :
+
+<p align="center">
+<img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/226108558-7853629d-3b82-46da-9194-9d5f9ad14679.jpeg">
+</p>
+
+On obtient après implementation du modèle le résultat suivant pour ce qui est du modèle dynamique :
 
 <p align="center">
 <img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/225969063-85a2d0c6-08ea-431a-af0e-2695b1c9a1fb.png">
