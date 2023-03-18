@@ -63,5 +63,19 @@ Pour la première salle, nous trouvons une consommation de chauffage de 1100 kWh
 
 Dans les deux cas, la première pièce a besoin de plus de chauffage pour atteindre la température de consigne. Cela peut s'expliquer par le fait que le paroi en verre isole moins bien que les autres parois en béton + isolant. Mais la pièce 1 est celle qui va le plus bénéficier de l'ensoleillement.
 
+Nous avons ensuite mené une autre simulation au mois de juillet pour comparer les performances des isolants en période estivale.
+
+- Isolant laine de verre :
+Dans la première pièce, nous trouvons une température moyenne de 24,1°C et de 23,7°C dans la seconde. La première pièce est plus chaude que la seconde du fait de la paroi en verre qui va chauffer la pièce grâce au rayonnement solaire.
+![juillet_laine_de_verre](https://user-images.githubusercontent.com/78414656/226102170-56ee15d9-c7b6-45e2-bc5b-4db44956d4a6.png)
+![juillet_laine_de_verre_sans_ext](https://user-images.githubusercontent.com/78414656/226102171-9752e18e-f3ff-41ce-9fc1-4d7f18fd19bf.png)
+
+- Isolant paille :
+Dans la première pièce, nous trouvons une température moyenne de 24,0°C et de 23,6°C dans la seconde. Les températures sont légèrements plus faibles dans ce cas. Cela peut-être dû à la différence de densité entre les deux matériaux.
+![juillet_paille](https://user-images.githubusercontent.com/78414656/226102226-a4cf5095-7853-486c-bcf2-69189aab4744.png)
+![juillet_paille_sans_ext](https://user-images.githubusercontent.com/78414656/226102244-d3c1332b-0a14-4b88-a97b-4bf1bc7188fc.png)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
