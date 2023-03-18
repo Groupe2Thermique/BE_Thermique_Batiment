@@ -7,7 +7,7 @@ L'objectif de ce bureau d'étude est d'étudier le comportement thermique d'un b
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Groupe2Thermique/BE_Thermique_Batiment/HEAD)
 
-On va s'attacher dans ce qui va suivre à décrire le bâtiment choisi comme cas d'étude ainsi que ces caracteristiques.On présentera alors quelques resultats, en prenant garde à decrire les parametres qui peuvent influer dessus.
+On va s'attacher dans ce qui va suivre à décrire le bâtiment choisi comme cas d'étude ainsi que ces caracteristiques. On présentera alors quelques resultats, en prenant garde à decrire les parametres qui peuvent influer dessus.
 
 ###### Note : on ne décrira pas précisemment les modèles utilisés dans ce document puisque ce travail a été fait dans les notebooks Jupyter.
 
