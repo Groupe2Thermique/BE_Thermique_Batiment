@@ -119,9 +119,10 @@ A présent, nous regardons quel est l'impact de la ventilation sur la températu
 |  5  |               23.35              |               22.70              |
 |  10 |               22.95              |               22.30              |
 
-
-![ventilation_room_1](https://user-images.githubusercontent.com/78414656/226109644-a6caa2a4-fe3f-4d4a-af8a-bbc5d03f089b.png)
-![ventilation_room_2](https://user-images.githubusercontent.com/78414656/226109650-34e58277-1884-4518-97ca-7bb4d9c68b80.png)
+<p align="center">
+<img width="425" alt="ventilation_room_1" src="https://user-images.githubusercontent.com/78414656/226109644-a6caa2a4-fe3f-4d4a-af8a-bbc5d03f089b.png">
+<img width="425" alt="jventilation_room_2" src="https://user-images.githubusercontent.com/78414656/226109650-34e58277-1884-4518-97ca-7bb4d9c68b80.png">
+</p>
 
 
 Nous pouvons voir que plus le taux de renouvellement est élevé, plus la température des pièces diminuent. En effet, la température des pièces va tendre vers la température extérieure si le taux de renouvellement est plus élevé. Plus le taux de renouvellement est important, moins les parois ont un effet sur la température intérieure. Par exemple, si toutes les fenêtres d'une maison sont ouvertes, la température intérieure sera égale à la température extérieure.
