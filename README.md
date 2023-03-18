@@ -47,6 +47,9 @@ On peut alors mettre en place des circuits électriques équivalent aux phénom�
 
 ###### Note : Figure décrite dans le notebook Jupyter intitulé "Modèle_Statique"
 
+L'implémentation sous Python se fait en trois parties, représentées en gris, jaune et rouge sur le schéma. Cette segmentation permet de définir les matrices d'incidence et de conductance propres à notre bâtiment et nécessaires à la résolution de l'équation présentée dans le Jupyter "Modèle_Statique". 
+Avec une température de consigne intérieure à 20°C et une témpérature extérieure de 5°C, notre modèle nous permet de calculer une température d'environ 14°C aux noeuds muraux. Nous sommes également en mesure de calculer les flux de chaleur dans chaque pièce, ce qui permet d'adapter les coefficients K1 et K2 régissant les températures de consigne. 
+
 - pour le modèle dynamique :
 
 <p align="center">
