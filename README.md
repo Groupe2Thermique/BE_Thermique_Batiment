@@ -121,5 +121,8 @@ A présent, nous regardons quel est l'impact de la ventilation sur la températu
 
 Nous pouvons voir que plus le taux de renouvellement est élevé, plus la température des pièces diminuent. En effet, la température des pièces va tendre vers la température extérieure si le taux de renouvellement est plus élevé. Plus le taux de renouvellement, moins les parois ont un effet sur la température intérieure. Par exemple, si toutes les fenêtres d'une maison sont ouvertes, la température intérieure sera égale à la température extérieure.
 
+### Ombrage de la paroi vitrée
+Nous allons procéder à quelques simulations pour estimer l'impact de l'ombre sur la température des pièces (nuage qui passe devant le soleil, présence d'arbre). Pour cela, nous allons multiplier le flux $\phi_a$ qui arrive sur la vitre par un coefficient d'ombrage.
+
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
