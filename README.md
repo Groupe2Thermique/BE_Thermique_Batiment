@@ -60,7 +60,7 @@ Pour la première salle, nous trouvons une consommation de chauffage de 1100 kWh
 ![janvier_paille_sans_ext](https://user-images.githubusercontent.com/78414656/226101710-04da7618-e96d-4e16-a995-231f3fdc562a.png)
 ![janvier_paille](https://user-images.githubusercontent.com/78414656/226101721-e2f9dc0c-8e1f-4dd8-a4ee-3cd426aa5cde.png)
 
-Dans les deux cas, la première pièce a besoin de plus de chauffage pour atteindre la température de consigne. Cela peut s'expliquer par le fait que le paroi en verre isole moins bien que les autres parois en béton + isolant. Mais la pièce 1 est celle qui va le plus bénéficier de l'ensoleillement.
+Dans les deux cas, la première pièce a besoin de plus de chauffage pour atteindre la température de consigne. Cela peut s'expliquer par le fait que la paroi en verre isole moins bien que les autres parois en béton + isolant. Mais la pièce 1 est celle qui va le plus bénéficier de l'ensoleillement.
 
 Nous avons ensuite mené une autre simulation au mois de juillet pour comparer les performances des isolants en période estivale.
 
