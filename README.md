@@ -96,16 +96,16 @@ Nous avons ensuite mené une autre simulation au mois de juillet pour comparer l
 Dans la première pièce, nous trouvons une température moyenne de 24,1°C et de 23,7°C dans la seconde. La première pièce est plus chaude que la seconde du fait de la paroi en verre qui va chauffer la pièce grâce au rayonnement solaire.
 
 <p align="center">
-<img width="425" alt="juillet_laine_de_verre" src="https://user-images.githubusercontent.com/78414656/226102170-56ee15d9-c7b6-45e2-bc5b-4db44956d4a6.png">
-<img width="425" alt="juillet_laine_de_verre_sans_ext" src="https://user-images.githubusercontent.com/78414656/226102171-9752e18e-f3ff-41ce-9fc1-4d7f18fd19bf.png">
+<img width="400" alt="juillet_laine_de_verre" src="https://user-images.githubusercontent.com/78414656/226102170-56ee15d9-c7b6-45e2-bc5b-4db44956d4a6.png">
+<img width="400" alt="juillet_laine_de_verre_sans_ext" src="https://user-images.githubusercontent.com/78414656/226102171-9752e18e-f3ff-41ce-9fc1-4d7f18fd19bf.png">
 </p>
 
 - Isolant paille :
 Dans la première pièce, nous trouvons une température moyenne de 24,0°C et de 23,6°C dans la seconde. Les températures sont légèrements plus faibles dans ce cas. Cela peut-être dû à la différence de densité entre les deux matériaux.
 
 <p align="center">
-<img width="425" alt="juillet_paille" src="https://user-images.githubusercontent.com/78414656/226102226-a4cf5095-7853-486c-bcf2-69189aab4744.png">
-<img width="425" alt="juillet_paille_sans_ext" src="https://user-images.githubusercontent.com/78414656/226102244-d3c1332b-0a14-4b88-a97b-4bf1bc7188fc.png">
+<img width="400" alt="juillet_paille" src="https://user-images.githubusercontent.com/78414656/226102226-a4cf5095-7853-486c-bcf2-69189aab4744.png">
+<img width="400" alt="juillet_paille_sans_ext" src="https://user-images.githubusercontent.com/78414656/226102244-d3c1332b-0a14-4b88-a97b-4bf1bc7188fc.png">
 </p>
 
 Les deux isolants présentent quand même des résultats très similaires dans ce modèle, notamment pour la simulation au mois de juillet. Pour améliorer le modèle, nous pourrions prendre en compte l'orientation des parois pour modifier les flux solaires entrants puisque ce sont eux qui semblent avoir le plus d'influence sur l'ensemble de nos résultats.
