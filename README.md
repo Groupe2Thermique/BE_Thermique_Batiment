@@ -42,19 +42,13 @@ On peut alors mettre en place des circuits électriques équivalent aux phénom�
 - pour le modèle statique :
 
 <p align="center">
-  <img width="500" alt="Untitled" src="https://user-images.githubusercontent.com/128041310/226108514-a54e9682-0b49-49d9-ac6e-92215b831990.png">
-</p>
-<p align="center">
-  <em>Figure décrite dans le notebook Jupyter "Modèle_Statique"</em>
+<img width="500" alt="Untitled" src="https://user-images.githubusercontent.com/128041310/226108514-a54e9682-0b49-49d9-ac6e-92215b831990.png">
 </p>
 
 - pour le modèle dynamique :
 
 <p align="center">
-<img width="800" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/226108558-7853629d-3b82-46da-9194-9d5f9ad14679.jpeg">
-</p>
-<p align="center">
-  <em>Figure décrite dans le notebook Jupyter "Modèle_Dynamique"</em>
+<img width="500" alt="Unknown" src="https://user-images.githubusercontent.com/128041310/226108558-7853629d-3b82-46da-9194-9d5f9ad14679.jpeg">
 </p>
 
 On obtient après implementation du modèle le résultat suivant pour ce qui est du modèle dynamique :
@@ -109,6 +103,16 @@ Dans la première pièce, nous trouvons une température moyenne de 24,0°C et d
 </p>
 
 Les deux isolants présentent quand même des résultats très similaires dans ce modèle, notamment pour la simulation au mois de juillet. Pour améliorer le modèle, nous pourrions prendre en compte l'orientation des parois pour modifier les flux solaires entrants puisque ce sont eux qui semblent avoir le plus d'influence sur l'ensemble de nos résultats.
+
+### Effet de la ventilation :
+A présent, nous regardons quel est l'impact de la ventilation sur la température des deux pièces. Pour cela, nous faisons varier le paramètre ACH, c'est à dire le taux de renouvellement d'air (ACH=1 correspond au renouvellement d'une fois le volume de la pièce par heure). Voici les résultats obtenus :
+
+| ACH  | Température moyenne pièce 1 |  Température moyenne pièce 1 |
+| ------------- | ------------- |
+| 1  | 24.06  | 23.57  |
+| 2  | 23.81 | 23.25  |
+| 5  | 23.35 | 22.70  |
+| 10  | 22.95 | 22.3  |
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
