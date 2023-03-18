@@ -107,12 +107,13 @@ Les deux isolants présentent quand même des résultats très similaires dans c
 ### Effet de la ventilation :
 A présent, nous regardons quel est l'impact de la ventilation sur la température des deux pièces. Pour cela, nous faisons varier le paramètre ACH, c'est à dire le taux de renouvellement d'air (ACH=1 correspond au renouvellement d'une fois le volume de la pièce par heure). Voici les résultats obtenus :
 
+
 | ACH  | Température moyenne pièce 1 |  Température moyenne pièce 1 |
-| ------------- | ------------- |
-| 1  | 24.06  | 23.57  |
-| 2  | 23.81 | 23.25  |
-| 5  | 23.35 | 22.70  |
-| 10  | 22.95 | 22.3  |
+| ---------------------------------- | ---------------------------- |
+| 1    | 24.06                       | 23.57                        |
+| 2    | 23.81                       | 23.25                        |
+| 5    | 23.35                       | 22.70                        |
+| 10   | 22.95                       | 22.3                         |
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
