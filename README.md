@@ -144,6 +144,7 @@ Nous allons procéder à quelques simulations pour estimer l'impact de l'ombre s
 ![ombres_pièce_1](https://user-images.githubusercontent.com/78414656/226111019-d312c34b-4cf1-4c1a-b8c4-b4bd1a26c6d8.png)
 
 Naturellement, plus il y a d'ombrage sur la vitre et plus la tmpérature de la pièce 1 diminue. On remarque sur le graphique que cela est vrai uniquement en journée car aucun flux solaire n'arrive sur la vitre en journée. De plus, comme cela peut-être remarqué dans le tableau, la température de la pièce 2 est très peu impactée car seul le flux arrivant sur la vitre de la pièce 1 est concerné par l'ombrage.
+L'ombrage des parois est en effet important dans la conception des logement, à la fois pour les conforts d'été et d'hiver. En effet, on veut minimiser l'apport solaire en été et le maximiser en hiver. La présence d'arbre feuillu devant une paroi vitrée peut remplir ce rôle : les feuilles bloquent le flux solaire en été et l'absence des feuilles en hiver permet en flux solaire de passer. Une casquette de toit peut également remplir ce rôle.
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
