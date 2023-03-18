@@ -75,7 +75,7 @@ Dans la première pièce, nous trouvons une température moyenne de 24,0°C et d
 ![juillet_paille](https://user-images.githubusercontent.com/78414656/226102226-a4cf5095-7853-486c-bcf2-69189aab4744.png)
 ![juillet_paille_sans_ext](https://user-images.githubusercontent.com/78414656/226102244-d3c1332b-0a14-4b88-a97b-4bf1bc7188fc.png)
 
-
+Les deux isolants présentent quand même des résultats très similaires dans ce modèle, notamment pour la simulation au mois de juillet. Pour améliorer le modèle, nous pourrions prendre en compte l'orientation des parois pour modifier les flux solaires entrants.
 
 
 ![image](https://user-images.githubusercontent.com/128041310/225596597-5e743a3f-2a84-4fb2-8a20-229cdc021aa3.png)
