@@ -55,13 +55,19 @@ On remarque que les choix réalisés en terme d'isolation ne garantissent pas un
 Une première série de test a été menée sur un mois de janvier pour comparer différents isolants (laine de verre et paille). Voici les différents résultats :
 - Isolant en laine de verre (conductivité de 0,035 W/(m.K) et densité de 20 kg/m^3):
 Pour la première salle, nous trouvons une consommation de chauffage de 1035 kWh et de 283 kWh pour la seconde salle. La température est maintenue au niveau de la consigne tout au long du mois (20°C dans ce cas-là). On remarque que la consommation de chauffage dépend des conditions extérieures : s'il y a plus de soleil, moins de chauffage est consommé, de même si la température extérieure est plus élevée.
-![janvier_laine_de_verre_sans_ext](https://user-images.githubusercontent.com/78414656/226101540-b33fd2f2-e42e-49c6-9421-e6c7c35bb3d7.png)
-![janvier_laine_de_verre](https://user-images.githubusercontent.com/78414656/226101532-a87959ce-e5ec-43a0-98f4-dc33513520fd.png)
+
+<p align="center">
+<img width="400" alt="janvier_laine_de_verre_sans_ext" src="https://user-images.githubusercontent.com/78414656/226101540-b33fd2f2-e42e-49c6-9421-e6c7c35bb3d7.png">
+<img width="425" alt="janvier_laine_de_verre" src="https://user-images.githubusercontent.com/78414656/226101532-a87959ce-e5ec-43a0-98f4-dc33513520fd.png">
+</p>
 
 - Isolant paille (conductivité de 0,045 W/(m.K) et densité de 100 kg/m^3):
 Pour la première salle, nous trouvons une consommation de chauffage de 1100 kWh et de 376 kWh pour la seconde salle. L'isolation à la paille pour une épaisseur d'isolant égale est donc moins efficace que la laine de verre. Cela s'explique du fait de la différence de conductivité. En réalité, l'isolation paille peut avoir de meilleure performance que l'isolation à la laine de verre, notamment car les bottes de pailles utilisées ont une grande épaisseur (37cm d'épaisseur pour les bottes de paille en général). La résistance thermique est ainsi augmentée.
-![janvier_paille_sans_ext](https://user-images.githubusercontent.com/78414656/226101710-04da7618-e96d-4e16-a995-231f3fdc562a.png)
-![janvier_paille](https://user-images.githubusercontent.com/78414656/226101721-e2f9dc0c-8e1f-4dd8-a4ee-3cd426aa5cde.png)
+
+<p align="center">
+<img width="425" alt="janvier_paille_sans_ext" src="https://user-images.githubusercontent.com/78414656/226101710-04da7618-e96d-4e16-a995-231f3fdc562a.png">
+<img width="400" alt="janvier_paille" src="https://user-images.githubusercontent.com/78414656/226101721-e2f9dc0c-8e1f-4dd8-a4ee-3cd426aa5cde.png">
+</p>
 
 Dans les deux cas, la première pièce a besoin de plus de chauffage pour atteindre la température de consigne. Cela peut s'expliquer par le fait que la paroi en verre isole moins bien que les autres parois en béton + isolant. Mais la pièce 1 est celle qui va le plus bénéficier de l'ensoleillement.
 
@@ -69,13 +75,19 @@ Nous avons ensuite mené une autre simulation au mois de juillet pour comparer l
 
 - Isolant laine de verre :
 Dans la première pièce, nous trouvons une température moyenne de 24,1°C et de 23,7°C dans la seconde. La première pièce est plus chaude que la seconde du fait de la paroi en verre qui va chauffer la pièce grâce au rayonnement solaire.
-![juillet_laine_de_verre](https://user-images.githubusercontent.com/78414656/226102170-56ee15d9-c7b6-45e2-bc5b-4db44956d4a6.png)
-![juillet_laine_de_verre_sans_ext](https://user-images.githubusercontent.com/78414656/226102171-9752e18e-f3ff-41ce-9fc1-4d7f18fd19bf.png)
+
+<p align="center">
+<img width="425" alt="juillet_laine_de_verre" src="https://user-images.githubusercontent.com/78414656/226102170-56ee15d9-c7b6-45e2-bc5b-4db44956d4a6.png">
+<img width="425" alt="juillet_laine_de_verre_sans_ext" src="https://user-images.githubusercontent.com/78414656/226102171-9752e18e-f3ff-41ce-9fc1-4d7f18fd19bf.png">
+</p>
 
 - Isolant paille :
 Dans la première pièce, nous trouvons une température moyenne de 24,0°C et de 23,6°C dans la seconde. Les températures sont légèrements plus faibles dans ce cas. Cela peut-être dû à la différence de densité entre les deux matériaux.
-![juillet_paille](https://user-images.githubusercontent.com/78414656/226102226-a4cf5095-7853-486c-bcf2-69189aab4744.png)
-![juillet_paille_sans_ext](https://user-images.githubusercontent.com/78414656/226102244-d3c1332b-0a14-4b88-a97b-4bf1bc7188fc.png)
+
+<p align="center">
+<img width="425" alt="juillet_paille" src="https://user-images.githubusercontent.com/78414656/226102226-a4cf5095-7853-486c-bcf2-69189aab4744.png">
+<img width="425" alt="juillet_paille_sans_ext" src="https://user-images.githubusercontent.com/78414656/226102244-d3c1332b-0a14-4b88-a97b-4bf1bc7188fc.png">
+</p>
 
 Les deux isolants présentent quand même des résultats très similaires dans ce modèle, notamment pour la simulation au mois de juillet. Pour améliorer le modèle, nous pourrions prendre en compte l'orientation des parois pour modifier les flux solaires entrants puisque ce sont eux qui semblent avoir le plus d'influence sur l'ensemble de nos résultats.
 
