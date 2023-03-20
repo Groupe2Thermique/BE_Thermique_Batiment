@@ -152,5 +152,5 @@ L'ombrage des parois est en effet important dans la conception des logements, à
 
 ### Conclusion
 
-Cette étude nous a permit de constater qu'il est possible d'obtenir des résultats robustes concernant la thermique des bâtiments en utilisant un modèle théorique relativement élaboré et pouvant être implémenté avec des langages de programmation accessibles. Au vu des multiples paramètres d'entrée et de leur facilité d'accès, nombreuses sont les disccusions pouvant être menées pour améliorer la thermique des bâtiments en utilisant ce modèle. 
+Cette étude nous a permis de constater qu'il est possible d'obtenir des résultats robustes concernant la thermique des bâtiments en utilisant un modèle théorique relativement élaboré et pouvant être implémenté avec des langages de programmation accessibles. Au vu des multiples paramètres d'entrée et de leur facilité d'accès, nombreuses sont les disccusions pouvant être menées pour améliorer la thermique des bâtiments en utilisant ce modèle. 
 Cependant, il est à noter que la structure que nous décrivons dans cette étude est très simpliste. Complexifier le bâtiment apporte des changements lourds, en particulier concernant les matrices d'incidence et de conductance, qu'il n'est pas envisageable d'effectuer manuellement, ce qui constitue une limite de ce modèle.
